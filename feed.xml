@@ -17,7 +17,7 @@ layout: nil
       <item>
         <title>{{ post.title }}</title>
 
-        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/notes{{ post.url }}</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com{{ post.url }}</sparkle:releaseNotesLink>
 
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
 
