@@ -49,6 +49,8 @@ configure do
 end
 
 get '/' do
+  response.headers['Cache-Control'] = 'public, max-age=31557600'
+
   'This is the BaseApp updates suite, we are making it pretty, don\'t worry.'
 end
 
