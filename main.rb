@@ -49,7 +49,7 @@ configure do
 end
 
 get '/' do
-  'This is the CloudApp updates suite, we are making it pretty, don\'t worry.'
+  'This is the BaseApp updates suite, we are making it pretty, don\'t worry.'
 end
 
 get '/update.xml' do

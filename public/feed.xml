@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>CloudApp Updates</title>
+    <title>BaseApp Updates</title>
 
-    <link>http://sparkler.getcloudapp.com/feed/</link>
+    <link>http://sparkler.getbaseapp.com/update.xml</link>
 
     <description>Most recent changes with links to updates.</description>
 
@@ -13,7 +13,7 @@
       <item>
         <title>BaseApp 1.0</title>
 
-        <sparkle:releaseNotesLink>http://sparkler.getcloudapp.com/notes/releases/1-0-0</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/notes/releases/1-0-0</sparkle:releaseNotesLink>
 
         <pubDate>2010-09-05T00:00:00+02:00</pubDate>
 
