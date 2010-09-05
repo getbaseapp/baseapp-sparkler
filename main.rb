@@ -48,7 +48,7 @@ configure do
   DataMapper.auto_upgrade!
 end
 
-get '/' do
+get '/?' do
   response.headers['Cache-Control'] = 'public, max-age=31557600'
 
   'This is the BaseApp updates suite, we are making it pretty, don\'t worry.'
@@ -72,7 +72,7 @@ get '/feed.xml' do
   File.read('public/feed.xml')
 end
 
-get '/admin' do
+get '/admin/?' do
   ensure_authenticated
 
   @sparkles = Sparkle.all
