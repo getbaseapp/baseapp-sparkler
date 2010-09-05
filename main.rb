@@ -73,6 +73,10 @@ get '/feed.xml' do
   File.read('public/feed.xml')
 end
 
+get '/releases/:release' do
+  File.read("public/releases/#{ params[:release] }/index.html")
+end
+
 get '/admin/?' do
   ensure_authenticated
 
