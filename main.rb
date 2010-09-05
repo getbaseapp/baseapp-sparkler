@@ -34,13 +34,13 @@ class Sparkle
   property 'appName',      String
   property 'appVersion',   String
   property 'compModel',    String
-  property 'cpu64bit',     Boolean
-  property 'cpuFreqMHz',   Integer
+  property 'cpu64bit',     String
+  property 'cpuFreqMHz',   String
   property 'cpusubtype',   String
   property 'cputype',      String
   property 'lang',         String
-  property 'ncpu',         Integer
-  property 'ramMB',        Integer
+  property 'ncpu',         String
+  property 'ramMB',        String
 end
 
 configure do
