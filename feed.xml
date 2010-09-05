@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>CloudApp Updates</title>
+
+    <link>http://sparkler.getcloudapp.com/feed/</link>
+
+    <description>Most recent changes with links to updates.</description>
+
+    <language>en</language>
+
+    {% for post in site.posts %}
+      <item>
+        <title>{{ post.title }}</title>
+
+        <sparkle:releaseNotesLink>http://sparkler.getcloudapp.com/notes{{ post.url }}</sparkle:releaseNotesLink>
+
+        <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+
+        <enclosure length="{{ post.length }}" sparkle:dsaSignature="{{ post.signature }}" sparkle:version="{{ post.version }}" type="application/octet-stream" url="{{ post.download }}" />
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
