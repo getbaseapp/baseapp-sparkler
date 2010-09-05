@@ -13,11 +13,11 @@
       <item>
         <title>BaseApp 1.0.1</title>
 
-        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/notes/releases/1-0-0</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/notes/releases/1-0-1</sparkle:releaseNotesLink>
 
         <pubDate>2010-09-05T00:00:00+02:00</pubDate>
 
-        <enclosure length="1350699" sparkle:dsaSignature="MCwCFDbWnnKsg4ITQLd3gKQV/SHW5USfAhRoTz9B1dhoN55JFg8Mo3eKwgqctA==" sparkle:version="1.0.1" type="application/octet-stream" url="http://f.cl.ly/baseapp/BaseApp1.0.1.zip" />
+        <enclosure length="1350699" sparkle:dsaSignature="MCwCFDbWnnKsg4ITQLd3gKQV/SHW5USfAhRoTz9B1dhoN55JFg8Mo3eKwgqctA==" sparkle:version="1.0.1" type="application/octet-stream" url="http://linebreak.s3.amazonaws.com/baseapp/BaseApp1.0.1.zip" />
       </item>
     
   </channel>
