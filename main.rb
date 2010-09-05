@@ -29,18 +29,19 @@ end
 class Sparkle
   include DataMapper::Resource
 
-  property 'id',           Serial
-  property 'created_at',   DateTime
-  property 'appName',      String
-  property 'appVersion',   String
-  property 'compModel',    String
-  property 'cpu64bit',     String
-  property 'cpuFreqMHz',   String
-  property 'cpusubtype',   String
-  property 'cputype',      String
-  property 'lang',         String
-  property 'ncpu',         String
-  property 'ramMB',        String
+  property 'id',            Serial
+  property 'created_at',    DateTime
+  property 'appName',       String
+  property 'appVersion',    String
+  property 'compModel',     String
+  property 'cpu64bit',      String
+  property 'cpuFreqMHz',    String
+  property 'cpusubtype',    String
+  property 'cputype',       String
+  property 'lang',          String
+  property 'ncpu',          String
+  property 'osVersion',     String
+  property 'ramMB',         String
 end
 
 configure do
