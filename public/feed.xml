@@ -17,7 +17,7 @@
 
         <pubDate>2010-09-07T00:00:00+02:00</pubDate>
 
-        <enclosure length="1558513" sparkle:dsaSignature="MCwCFGnlkqx6EIytcnvrFV4H2wPYU4FxAhQRkv6DV9TS/QZv6NxLXAJKxJ7EXg==" sparkle:version="1.0.2" type="application/octet-stream" url="http://linebreak.s3.amazonaws.com/baseapp/BaseApp1.0.2.zip" />
+        <enclosure length="1558513" sparkle:dsaSignature="MCwCFGnlkqx6EIytcnvrFV4H2wPYU4FxAhQRkv6DV9TS/QZv6NxLXAJKxJ7EXg==" sparkle:version="1.0.2" type="application/octet-stream" url="http://baseapp.s3.amazonaws.com/BaseApp1.0.2.zip" />
       </item>
     
       <item>
@@ -27,7 +27,7 @@
 
         <pubDate>2010-09-07T00:00:00+02:00</pubDate>
 
-        <enclosure length="1558383" sparkle:dsaSignature="MCwCFFqaEK20Y/lmbL1RJiLC0LjIV5jQAhQZN1OhJKN7TAuUWCWAAR1d9bbXig==" sparkle:version="1.0.1" type="application/octet-stream" url="http://linebreak.s3.amazonaws.com/baseapp/BaseApp1.0.1.zip" />
+        <enclosure length="1558383" sparkle:dsaSignature="MCwCFFqaEK20Y/lmbL1RJiLC0LjIV5jQAhQZN1OhJKN7TAuUWCWAAR1d9bbXig==" sparkle:version="1.0.1" type="application/octet-stream" url="http://baseapp.s3.amazonaws.com/BaseApp1.0.1.zip" />
       </item>
     
       <item>
@@ -37,7 +37,7 @@
 
         <pubDate>2010-09-06T00:00:00+02:00</pubDate>
 
-        <enclosure length="1554495" sparkle:dsaSignature="MCwCFE4iOiRu/fiIuNQbM/mnHAVnSbTVAhQigZmzQIZjNENCjbuIoLMQCxwvAw==" sparkle:version="1.0" type="application/octet-stream" url="http://linebreak.s3.amazonaws.com/baseapp/BaseApp1.0.zip" />
+        <enclosure length="1554495" sparkle:dsaSignature="MCwCFE4iOiRu/fiIuNQbM/mnHAVnSbTVAhQigZmzQIZjNENCjbuIoLMQCxwvAw==" sparkle:version="1.0" type="application/octet-stream" url="http://baseapp.s3.amazonaws.com/BaseApp1.0.zip" />
       </item>
     
   </channel>
