@@ -17,7 +17,7 @@
 
         <pubDate>2010-12-13T00:00:00+01:00</pubDate>
 
-        <enclosure length="1588823" sparkle:dsaSignature="MC0CFBP7QXxiGhJPOe+BZ0jayh0LQ2sCAhUAqhFEaVCZ2c92JPu5JKlRUIF7Vn8=" sparkle:version="1.0.4" type="application/octet-stream" url="http://baseapp.s3.amazonaws.com/BaseApp1.0.4.zip" />
+        <enclosure length="1588823" sparkle:dsaSignature="MC0CFBP7QXxiGhJPOe+BZ0jayh0LQ2sCAhUAqhFEaVCZ2c92JPu5JKlRUIF7Vn8=" sparkle:version="1.0.4" type="application/octet-stream" url="http://baseapp.s3.amazonaws.com/Base1.0.4.zip" />
       </item>
     
       <item>
