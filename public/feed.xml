@@ -11,6 +11,16 @@
 
     
       <item>
+        <title>BaseApp 1.0.5</title>
+
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/releases/1-0-5</sparkle:releaseNotesLink>
+
+        <pubDate>2011-01-06T00:00:00+01:00</pubDate>
+
+        <enclosure length="1475148" sparkle:dsaSignature="MCwCFC+iYiWmkdnuusAUh51Fe4SXhETfAhQiqz1Ho0Oahyrr91Nz45EFQ62ZhA==" sparkle:version="1.0.5" type="application/octet-stream" url="http://baseapp.s3.amazonaws.com/BaseApp1.0.5.zip" />
+      </item>
+    
+      <item>
         <title>BaseApp 1.0.4</title>
 
         <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/releases/1-0-4</sparkle:releaseNotesLink>
