@@ -1,5 +1,3 @@
-require 'main.rb'
+require "rack/jekyll"
 
-set :environment, :production
-
-run Sinatra::Application
+run Rack::Jekyll.new

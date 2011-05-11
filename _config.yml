@@ -1,3 +1,6 @@
-destination: ./public
-exclude: [ auth.rb, config.ru, Gemfile, main.rb, README.md, sparkle.sqlite, views ]
-permalink: /releases/:title
+exclude:
+  - config.ru
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+url: http://sparkle.getbaseapp.com/

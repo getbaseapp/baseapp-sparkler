@@ -11,9 +11,19 @@
 
     
       <item>
+        <title>BaseApp 1.0.6</title>
+
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/2011/05/12/1-0-6.html</sparkle:releaseNotesLink>
+
+        <pubDate>2011-05-12T00:00:00+02:00</pubDate>
+
+        <enclosure length="1329111" sparkle:dsaSignature="MCwCFH2OBq+DVpCnCxEFwnpvTmT/SQoPAhQIDTqScnBE1KD5nTWCmUYkFb6/Ow==" sparkle:version="1.0.6" type="application/octet-stream" url="http://baseapp.s3.amazonaws.com/BaseApp1.0.6.zip" />
+      </item>
+    
+      <item>
         <title>BaseApp 1.0.5</title>
 
-        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/releases/1-0-5</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/2011/01/06/1-0-5.html</sparkle:releaseNotesLink>
 
         <pubDate>2011-01-06T00:00:00+01:00</pubDate>
 
@@ -23,7 +33,7 @@
       <item>
         <title>BaseApp 1.0.4</title>
 
-        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/releases/1-0-4</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/2010/12/13/1-0-4.html</sparkle:releaseNotesLink>
 
         <pubDate>2010-12-13T00:00:00+01:00</pubDate>
 
@@ -33,7 +43,7 @@
       <item>
         <title>BaseApp 1.0.3</title>
 
-        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/releases/1-0-3</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/2010/09/17/1-0-3.html</sparkle:releaseNotesLink>
 
         <pubDate>2010-09-17T00:00:00+02:00</pubDate>
 
@@ -43,7 +53,7 @@
       <item>
         <title>BaseApp 1.0.2</title>
 
-        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/releases/1-0-2</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/2010/09/07/1-0-2.html</sparkle:releaseNotesLink>
 
         <pubDate>2010-09-07T00:00:00+02:00</pubDate>
 
@@ -53,7 +63,7 @@
       <item>
         <title>BaseApp 1.0.1</title>
 
-        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/releases/1-0-1</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/2010/09/07/1-0-1.html</sparkle:releaseNotesLink>
 
         <pubDate>2010-09-07T00:00:00+02:00</pubDate>
 
@@ -63,7 +73,7 @@
       <item>
         <title>BaseApp 1.0</title>
 
-        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/releases/1-0-0</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://sparkler.getbaseapp.com/2010/09/06/1-0-0.html</sparkle:releaseNotesLink>
 
         <pubDate>2010-09-06T00:00:00+02:00</pubDate>
 
